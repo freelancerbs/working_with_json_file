@@ -1,0 +1,25 @@
+{
+	"advertisements": [
+{
+    "ad_image_link" : "https://example.com",
+    "agency_name" : "XYZ Agency",
+    "proprietor" : "XYZ Proprietor",
+    "office_number" : "98XXXXXXXX",
+    "agency_locations" : "Street address, XYZ Province",
+    "license_number" : "123/123",
+    "website_link" : "https://xyz_agency_example.com",
+    "about_agency" : "Registered and operated date, Affiliate countrys and the company's loaction and more details."
+},
+{
+    "ad_image_link" : "https://example.com",
+    "agency_name" : "XYZ Agency",
+    "proprietor" : "XYZ Proprietor",
+    "office_number" : "98XXXXXXXX",
+    "agency_locations" : "Street address, XYZ Province",
+    "license_number" : "123/123",
+    "website_link" : "https://xyz_agency_example.com",
+    "about_agency" : "Registered and operated date, Affiliate countrys and the company's loaction and more details."
+}
+
+    ]
+}
